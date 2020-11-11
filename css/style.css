@@ -1,0 +1,78 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('./fonts/Roboto-Regular.ttf');
+}
+.experience {
+    position: relative;
+    top: 36px;
+    left: 9%;
+    font-family: 'Roboto-Regular', sans-serif;
+    margin-left: 350px;
+}
+
+.info {
+    font-family: 'Roboto-Regular', sans-serif;
+    padding-bottom: 15px;
+    margin-top: -10px;
+    display: inline-block;
+    font-size: 17px;
+}
+
+.summary {
+    
+    padding-top: 20px;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 18px;
+ }
+
+.company {
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.date, .location {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    font-weight: 400;
+    text-align: right;
+    padding-right: 15px;
+}
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.line, .degree {
+    margin-top: -20px;
+}
+.line {
+    margin-top: -60px;
+}
+
+.contact-info {
+    font-family: 'Roboto-Regular', sans-serif;
+    text-align: right;
+    position: relative;
+    bottom: 55px;
+    padding: 0;
+    list-style: none;
+}
+
+#VisitorCount p {
+    margin-left: 44%;
+}
+
+/* #VisitorCount h1,
+#VisitorCount p {
+    /* text-align: center; */
+    /* display: inline-block; */
+    /* vertical-align: top; */
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-size: 16px;
+    line-height: 28px; */
+    /* margin-right: 20%; */
+    /* margin-top: 2%; */
+/* } */ 
